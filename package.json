@@ -85,7 +85,7 @@
     "@advanced-rest-client/events": "^0.2.31",
     "@api-components/amf-web-api": "^0.1.1",
     "camelcase": "^6.2.0",
-    "electron-log": "^4.4.6",
+    "electron-log": "^4.4.8",
     "electron-prompt": "^1.7.0",
     "electron-updater": "^4.3.9",
     "esm": "^3.2.25",
