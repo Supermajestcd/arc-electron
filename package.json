@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "@advanced-rest-client/electron": "^0.2.0",
-    "@advanced-rest-client/events": "^0.2.31",
+    "@advanced-rest-client/events": "^18.0.3",
     "@api-components/amf-web-api": "^0.1.1",
     "camelcase": "^6.2.0",
     "electron-log": "^4.4.6",
