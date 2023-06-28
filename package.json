@@ -96,7 +96,7 @@
     "mime-types": "^2.1.31",
     "semver": "^7.3.5",
     "uuid": "^8.3.2",
-    "winston": "^3.3.3"
+    "winston": "^3.8.2"
   },
   "eslintConfig": {
     "extends": [
