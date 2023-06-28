@@ -89,7 +89,7 @@
     "electron-prompt": "^1.7.0",
     "electron-updater": "^4.3.9",
     "esm": "^3.2.25",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.1.1",
     "get-port": "^6.0.0",
     "jexl": "^2.3.0",
     "live-plugin-manager": "^0.17.1",
