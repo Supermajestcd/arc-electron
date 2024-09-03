@@ -87,7 +87,7 @@
     "camelcase": "^6.2.0",
     "electron-log": "^4.4.6",
     "electron-prompt": "^1.7.0",
-    "electron-updater": "^4.3.9",
+    "electron-updater": "^6.3.0",
     "esm": "^3.2.25",
     "fs-extra": "^10.0.0",
     "get-port": "^6.0.0",
